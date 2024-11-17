@@ -4,18 +4,17 @@
 - скачать [установщик AndroidStudio](https://developer.android.com/studio?hl=ru)
 - запустить установщик AndroidStudio
 - запустить приложение AndroidStudio
-## 2. SDK
+## 2. SDK Flutter, Dart
 *SDK (англ. software development kit — комплект для разработки программного обеспечения) — набор инструментов для разработки программного обеспечения, объединённый в одном пакете. Для работы потребуется две SDK: Flutter(платформа), Dart (язык).*
-### 2 SDK Flutter, Dart
-в AndroidStudio:
-- settings
-- plagin
-- Flatter/Dart
-- install
-настроить пути к SDK 
-скачать [Flutter SDK]https://docs.flutter.dev/release/archive)
-скачать [Dart SDK](https://dart.dev/get-dart)
-
+1. установить плагины Flutter и Dart в AndroidStudio:
+    - settings
+    - plugins
+    - Flatter/Dart
+    - install
+2. настроить пути к SDK  
+    -скачать [Flutter SDK](https://docs.flutter.dev/release/archive)  
+    -скачать [Dart SDK](https://dart.dev/get-dart)  
+    -указать в New Flutter Project во вкладках Flutter и Dart пути до cкачанных SDK ***//flutter_windows_3.19.0-stable.zip***,  ***//Git-2.47.0.2-64-bit.exe***
 ## 3. Flutter проект
-### 3.1 Создать проект Flutter
-### 3.2 Запустить проект Flutter
+1. Создать проект Flutter
+2. Запустить проект Flutter
