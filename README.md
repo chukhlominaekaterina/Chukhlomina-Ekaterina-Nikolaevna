@@ -1,9 +1,10 @@
  Chukhlomina-Ekaterina-Nikolaevna
-# Руководство по установке  AndroidStudio
+# Руководство по установке и настройке AndroidStudio
 ## 1. AndroidStudio
-- скачать [установщик AndroidStudio](https://developer.android.com/studio?hl=ru)
-- запустить установщик AndroidStudio
-- запустить приложение AndroidStudio
+*Android Studio — интегрированная среда разработки (IDE) для работы с платформой Android*
+1. скачать [установщик AndroidStudio](https://developer.android.com/studio?hl=ru)
+2. запустить установщик AndroidStudio ***android-studio-2024.2.1.11-windows.exe***
+3. запустить приложение AndroidStudio
 ## 2. SDK Flutter, Dart
 *SDK (англ. software development kit — комплект для разработки программного обеспечения) — набор инструментов для разработки программного обеспечения, объединённый в одном пакете. Для работы потребуется две SDK: Flutter(платформа), Dart (язык).*
 1. установить плагины Flutter и Dart в AndroidStudio:
