@@ -12,9 +12,10 @@
 - plagin
 - Flatter/Dart
 - install
-настроить пути к SDK
+настроить пути к SDK 
 скачать [Flutter SDK]https://docs.flutter.dev/release/archive)
 скачать [Dart SDK](https://dart.dev/get-dart)
+
 ## 3. Flutter проект
 ### 3.1 Создать проект Flutter
 ### 3.2 Запустить проект Flutter
